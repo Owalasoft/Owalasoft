@@ -40,7 +40,7 @@ Kami menyediakan berbagai layanan AI gratis dan inovatif, seperti:
 Kami terbuka untuk kerja sama, ide inovatif, dan pengembangan bersama.  
 Silakan hubungi langsung melalui WhatsApp:
 
-📩 [Hubungi Owalasoft](https://wa.me/message/BNTMDGF3Y7GWP1)
+📩 [Hubungi Owalasoft](https://wa.me/6285758412480)
 
 ---
 
