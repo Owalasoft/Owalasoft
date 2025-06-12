@@ -44,5 +44,5 @@ Silakan hubungi langsung melalui WhatsApp:
 
 ---
 
-Terima kasih telah mendukung teknologi AI lokal 🇮🇩  
+Terima kasih telah mendukung teknologi AI 🇮🇩  
 Follow dan sebarkan Owalasoft untuk mendukung karya anak bangsa!
