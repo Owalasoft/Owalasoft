@@ -19,7 +19,7 @@ Kami menyediakan berbagai layanan AI gratis dan inovatif, seperti:
 ## 🧠 Layanan AI dari Owalasoft
 
 - 🧠 [OwaAI – Chatbot AI Cerdas](https://www.owaai.web.id)  
-- 🧰 [Owalasoft Studio – Kumpulan Tools AI](https://www.owalasoft.web.id/studio)  
+- 🧰 [Owalasoft Studio – Kumpulan Tools AI](https://www.owalasoft.biz.id/owalasoft-studio)  
 - ⚙️ [API Chatbot Gratis](https://api.owalasoft.web.id)  
 - 🤖 [Daftar Bot WhatsApp & Telegram](https://bot.owalasoft.biz.id)
 
