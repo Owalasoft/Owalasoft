@@ -274,30 +274,18 @@ gantt
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 
-### 🏆 **Top Contributors**
+### 👨‍💻 **Pemilik Owalasoft**
 
 <table>
 <tr>
 <td align="center">
-<img src="https://avatars.githubusercontent.com/u/1?v=4" width="100" style="border-radius: 50%">
+<img src="https://user-images.githubusercontent.com/74038190/212750e147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100" style="border-radius: 50%">
 <br>
-<b>Core Team</b>
+<b>Bagus Ahmad Ega Permana</b>
 <br>
-<sub>🥇 Founder & Lead Developer</sub>
-</td>
-<td align="center">
-<img src="https://avatars.githubusercontent.com/u/2?v=4" width="100" style="border-radius: 50%">
+<sub>👑 Founder & CEO Owalasoft</sub>
 <br>
-<b>AI Engineer</b>
-<br>
-<sub>🥈 Machine Learning Expert</sub>
-</td>
-<td align="center">
-<img src="https://avatars.githubusercontent.com/u/3?v=4" width="100" style="border-radius: 50%">
-<br>
-<b>Community</b>
-<br>
-<sub>🥉 Community Manager</sub>
+<sub>🇮🇩 AI Enthusiast Indonesia</sub>
 </td>
 </tr>
 </table>
